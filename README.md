@@ -1,4 +1,4 @@
-#Diabetes Anomaly Detection
+##Diabetes Anomaly Detection
 
 This project demonstrates multiple unsupervised anomaly detection methods to identify diabetes. By exploring different approaches, we aim to improve the detection of outliers that indicate potential fraud. Methods implemented include Z-Score, Mahalanobis Distance, Local Outlier Factor, Isolation Forest, and One-Class SVM.
 
