@@ -10,6 +10,6 @@ scripts/: Python scripts for data loading, model evaluation, and visualization.
 
 # Dataset
 
-The dataset used is a Diabetes Dataset from Kaggle.
+The dataset used is a [Diabetes Dataset](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) from Kaggle.
 
 
